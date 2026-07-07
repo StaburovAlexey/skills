@@ -1,6 +1,6 @@
 # My Agent Skills
 
-[![skills.sh](https://skills.sh/b/gilbertfrost/skills)](https://skills.sh/gilbertfrost/skills)
+[![skills.sh](https://skills.sh/b/StaburovAlexey/skills)](https://skills.sh/StaburovAlexey/skills)
 
 A collection of reusable AI agent skills for Vue, TypeScript, and full-stack development.
 
@@ -8,10 +8,10 @@ A collection of reusable AI agent skills for Vue, TypeScript, and full-stack dev
 
 ```bash
 # Install a specific skill
-npx skills add gilbertfrost/skills@vue-flow-best-practices
+npx skills add StaburovAlexey/skills@vue-flow-best-practices
 
 # Install all skills from this repo
-npx skills add gilbertfrost/skills
+npx skills add StaburovAlexey/skills
 ```
 
 ## Available Skills
