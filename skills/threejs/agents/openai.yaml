@@ -1,0 +1,4 @@
+interface:
+  display_name: "Three.js"
+  short_description: "3D rendering with Three.js"
+  default_prompt: "Use $threejs to build a 3D scene with Three.js — setup renderer, scene, camera, and add geometry with materials and lighting."

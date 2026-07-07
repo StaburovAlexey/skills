@@ -8,6 +8,13 @@
       "skills": [
         "vue-flow-best-practices"
       ]
+    },
+    {
+      "title": "3D & Graphics",
+      "description": "Skills for 3D rendering, WebGL, and shader development with Three.js.",
+      "skills": [
+        "threejs"
+      ]
     }
   ]
 }
