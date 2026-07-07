@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Flow Best Practices"
+  short_description: "Build Vue Flow editors with typed patterns"
+  default_prompt: "Use $vue-flow-best-practices to build a typed Vue Flow editor with custom nodes and edges."
