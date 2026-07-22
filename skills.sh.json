@@ -15,6 +15,13 @@
       "skills": [
         "threejs"
       ]
+    },
+    {
+      "title": "Release & Publishing",
+      "description": "Skills for auditing, preparing, and packaging applications for publishing platforms.",
+      "skills": [
+        "yandex-games-release-audit"
+      ]
     }
   ]
 }

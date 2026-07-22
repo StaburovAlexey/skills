@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yandex Games Release Audit"
+  short_description: "Audit and prepare web games for Yandex Games"
+  default_prompt: "Use $yandex-games-release-audit to audit, fix, and package this web game for a Yandex Games release."
